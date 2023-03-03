@@ -30,15 +30,36 @@ body {
     display: block;
   }
   #birthday {
-    padding-bottom: 1em;
+    padding-bottom: 2em;
     padding-top: 1em;
-    padding-left: 2em;
-    background-color: #1414e3;
+    padding-left: 1em;
+    background-color: #21bfdf;
     text-align: left;
     display: block;
   }
   #First {
-
+    padding-bottom: 2em;
+    padding-top: 1em;
+    padding-left: 1em;
+    background-color: #21bfdf;
+    text-align: left;
+    display: block;
+  }
+  #Last {
+    padding-bottom: 2em;
+    padding-top: 1em;
+    padding-left: 1em;
+    background-color: #21bfdf;
+    text-align: left;
+    display: block;
+  }
+  #Phone {
+    padding-bottom: 2em;
+    padding-top: 1em;
+    padding-left: 1em;
+    background-color: #21bfdf;
+    text-align: left;
+    display: block;
   }
   #submit {
     background-color: #f60d0d;
