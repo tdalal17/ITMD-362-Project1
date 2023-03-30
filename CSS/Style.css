@@ -61,4 +61,10 @@ body{
  background-color:rgb(90, 137, 207);
  border-radius: 5px;
  border: none;
+ display: none;
+ font-size: 16px;
+ padding: 10px 0;
+ margin-top: 15px;
+width: 100%;
+color: #fff;
 }
