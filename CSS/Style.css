@@ -7,5 +7,9 @@
 }
 
 body{
-  background-color: rgb(red, green, blue);
+  background: rgb(128, 128, 245);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
 }
