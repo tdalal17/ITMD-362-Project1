@@ -34,3 +34,13 @@ body{
   text-transform: uppercase;
   text-align: center;
 }
+#Form{
+  padding: 40px;
+}
+#Form-control{
+  margin-bottom: 30px;
+  position: relative;
+}
+#First{
+  
+}
